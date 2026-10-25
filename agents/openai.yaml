@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行 Zine 剪輯風格"
+  short_description: "分析旅行圖冊與教學影片，建立有來源依據的分鏡、風格規則與自動化預覽"
+  default_prompt: "使用 $zine-travel-edit 分析我的素材，依參考風格製作繁體中文分鏡與預覽方案。"

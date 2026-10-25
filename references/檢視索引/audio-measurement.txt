@@ -1,0 +1,89 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '../../素材/原始/D.mp4':
+
+  Metadata:
+
+    major_brand     : isom
+
+    minor_version   : 512
+
+    compatible_brands: isomiso2avc1mp41
+
+    encoder         : Lavf59.14.100
+
+    mp4_data_incomplete: false
+
+  Duration: 00:08:34.22, start: 0.000000, bitrate: 516 kb/s
+
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x720 [SAR 1:1 DAR 4:3], 454 kb/s, 30 fps, 30 tbr, 90k tbn, 60 tbc (default)
+
+    Metadata:
+
+      handler_name    : VideoHandler
+
+      vendor_id       : [0][0][0][0]
+
+  Stream #0:1(und): Audio: aac (HE-AAC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 56 kb/s (default)
+
+    Metadata:
+
+      handler_name    : Core Media Audio
+
+      vendor_id       : [0][0][0][0]
+
+Stream mapping:
+
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+
+Press [q] to stop, [?] for help
+
+Output #0, null, to 'pipe:':
+
+  Metadata:
+
+    major_brand     : isom
+
+    minor_version   : 512
+
+    compatible_brands: isomiso2avc1mp41
+
+    mp4_data_incomplete: false
+
+    encoder         : Lavf58.76.100
+
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+
+    Metadata:
+
+      handler_name    : Core Media Audio
+
+      vendor_id       : [0][0][0][0]
+
+      encoder         : Lavc58.134.100 pcm_s16le
+
+size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+size=N/A time=00:03:50.74 bitrate=N/A speed= 460x    
+size=N/A time=00:07:39.22 bitrate=N/A speed= 458x    
+size=N/A time=00:08:34.17 bitrate=N/A speed= 455x    
+
+video:0kB audio:96416kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] n_samples: 49364992
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] mean_volume: -28.3 dB
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] max_volume: -6.7 dB
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_6db: 8
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_7db: 207
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_8db: 1030
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_9db: 2992
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_10db: 7239
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_11db: 16587
+
+[Parsed_volumedetect_0 @ 000001DFE3B98D40] histogram_12db: 32070
+
